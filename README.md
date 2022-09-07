@@ -63,7 +63,7 @@ You will also see any lint errors in the console.
 
 To clone a project firstly choose the directory to clone the project. Then open the terminal at the location and run the below commands.
 
-    git clone <Github link here For future>
+    git clone https://github.com/DhiWise/Investie.git
 
 ## Tokens required to run the project
 To run this project, the user needs Lemon.markets and the Twilio API key.
